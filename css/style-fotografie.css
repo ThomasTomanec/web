@@ -263,6 +263,9 @@ button {
 
 .NK-picture{
     max-width: 100%;
+    width: 621px;
+    height: 389px;
+    object-fit: cover;
     border-radius: 30px;
 }
 .row {
