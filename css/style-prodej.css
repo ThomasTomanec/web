@@ -264,8 +264,8 @@ button {
 }
 
 .NK-picture{
+    width: 550px;
     max-width: 100%;
-    width: 600px;
     border-radius: 30px 0px 0px 30px;
 }
 .row {
