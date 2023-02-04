@@ -153,10 +153,8 @@ input[type="checkbox"]{
    font-family: Roboto-Medium;
     display: inline-block;
     color: #fff;
-    font-size: 14px;
     padding: 4px 10px;
     border-radius: 10px;
-    padding: 0px 10px;
     border: none;
     display: inline-block;
     background-image: linear-gradient(160deg, #83bfea, #345c78);
