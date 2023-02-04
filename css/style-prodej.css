@@ -145,7 +145,7 @@ input[type="checkbox"]{
 }
 
 
-.buy-informations h4 {
+.buy-informations .underinfo {
     text-align: right;
 }
 
@@ -562,7 +562,7 @@ form button{
 }
 
 @media screen and (min-width: 1300px) {
-    .buy-informations h4 {
+    .buy-informations .underinfo {
         padding: 120px 15px 0px 0px;
     }
 }
@@ -702,7 +702,7 @@ footer .contacts{
 }
 
 @media screen and (min-width: 1300px) {
-    .buy-informations h4 {
+    .buy-informations .underinfo {
         padding: 120px 15px 0px 0px;
     }
 
