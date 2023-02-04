@@ -364,6 +364,10 @@ button {
     background-color: #FFBD67;
 }
 
+#tag.F {
+    background-color: #FFD4D4;
+}
+
 .con {
     font-family: Roboto-Medium;
     font-size: 15px;
